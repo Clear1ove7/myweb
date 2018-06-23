@@ -8,6 +8,7 @@
 	text-decoration: none !important;
 	font-size: 16px;
 	color: #333;
+	touch-action: none;
 }
 body,html{
 	background: #f4f4f4;
