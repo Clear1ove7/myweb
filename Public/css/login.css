@@ -1,0 +1,63 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	display: block;
+	position: relative;
+}
+form{
+	width: 400px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 20px 15px;
+	position: absolute;
+	left: 50%;
+	top: 50px;
+	margin-left: -200px;
+	background: #fff;
+	box-shadow: inset 0 0 20px #aaa,0 0 1px #000,5px 15px 15px rgba(0,0,0,0.3);
+}
+form .formTitle{
+	width: 100%;
+	height: 50px;
+}
+.rows{
+	width: 100%;
+	height: 40px;
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 15px;
+}
+.rows>*{
+	display: block;
+	height: 30px;
+	float: left;
+}
+.rows>label{
+	width: 80px;
+}
+.rows>input{
+	width: 300px;
+	width: calc(100% - 80px);
+	width: -webkit-calc(100% - 80px);
+	width: -moz-calc(100% - 80px);
+	border: none;
+}
+.btnDivs{
+	height: 50px;
+	padding: 5px 20px;
+	margin-top: 15px;
+}
+.btnDivs>button{
+	width: 100%;
+	height: 100%;
+	border: none;
+	border-radius: 5px;
+}
+.aDivs{
+	width: 100%;
+	padding: 0 20px;
+	line-height: 20px;
+	margin-top: 15px;
+}

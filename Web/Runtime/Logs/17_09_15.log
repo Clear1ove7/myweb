@@ -1,0 +1,932 @@
+[ 2017-09-15T10:16:41+08:00 ] ::1 /myTp1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005859s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.009766s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.059571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.059571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.023437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.024414s ]
+
+[ 2017-09-15T10:16:45+08:00 ] ::1 /myTp1/index.php?m=Home&c=Team&a=team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004883s ]
+SQL: SHOW COLUMNS FROM `think_team` [ RunTime:0.027344s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\TeamController.class.php 第 8 行.
+SQL: SELECT * FROM `think_team`  [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.060547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.061523s ]
+
+[ 2017-09-15T10:16:55+08:00 ] ::1 /myTp1/index.php?m=Home&c=Team&a=team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004883s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011719s ]
+SQL: SHOW COLUMNS FROM `think_team` [ RunTime:0.011719s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\TeamController.class.php 第 8 行.
+SQL: SELECT * FROM `think_team`  [ RunTime:0.021484s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.545898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.546875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.046875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.046875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010742s ]
+
+[ 2017-09-15T10:16:58+08:00 ] ::1 /myTp1/index.php?m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004883s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.010742s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_loler` LIMIT 0,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.251953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.252930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002929s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004883s ]
+
+[ 2017-09-15T10:17:01+08:00 ] ::1 /myTp1/index.php?page=2&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.049805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.051758s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.009766s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_loler` LIMIT 10,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003906s ]
+
+[ 2017-09-15T10:17:03+08:00 ] ::1 /myTp1/index.php?page=3&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.038086s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_loler` LIMIT 20,10   [ RunTime:0.002930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001954s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002929s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:17:07+08:00 ] ::1 /myTp1/index.php?page=2&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013672s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.010742s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_loler` LIMIT 10,10   [ RunTime:0.002930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:17:10+08:00 ] ::1 /myTp1/index.php?page=1&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.011718s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007813s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.017578s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_loler` LIMIT 0,10   [ RunTime:0.001954s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.263672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.265625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.037109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.038086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.053711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.071289s ]
+
+[ 2017-09-15T10:17:13+08:00 ] ::1 /myTp1/index.php?m=Home&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006836s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024414s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.010742s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.002930s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.002930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.461914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.463867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.035156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.036133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017578s ]
+
+[ 2017-09-15T10:17:16+08:00 ] ::1 /myTp1/index.php?page=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017578s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.009765s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_lol` LIMIT 10,10   [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.126953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:17:26+08:00 ] ::1 /myTp1/index.php?m=Home&c=Login&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.012695s ]
+NOTIC: [8] Undefined index: name D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LoginController.class.php 第 9 行.
+NOTIC: [8] Undefined index: pwd D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LoginController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.075196s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010742s ]
+
+[ 2017-09-15T10:17:42+08:00 ] ::1 /myTp1/index.php?m=Home&c=Login&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003906s ]
+SQL: SHOW COLUMNS FROM `think_admin` [ RunTime:0.029297s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.011719s ]
+SQL: SELECT * FROM `think_admin` WHERE ( user= 'admin'AND pwd= '123456' )  [ RunTime:0.015625s ]
+NOTIC: [8] Undefined variable: showPage D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LoginController.class.php 第 22 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.159180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.160157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.033203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007812s ]
+
+[ 2017-09-15T10:17:50+08:00 ] ::1 /myTp1/index.php?m=Home&c=Login&a=delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004883s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.012695s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.003906s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.002930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.010743s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010743s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012695s ]
+
+[ 2017-09-15T10:17:57+08:00 ] ::1 /myTp1/index.php?m=Home&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008789s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.010742s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.002930s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.001954s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004883s ]
+
+[ 2017-09-15T10:18:02+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014649s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.012696s ]
+NOTIC: [8] Undefined index: name D:\YuZF\wamp\www\myTp1\Web\Home\Controller\NavController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.014648s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.119141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002929s ]
+
+[ 2017-09-15T10:18:24+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=navShow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003906s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.020508s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel` WHERE ( id=1 )  [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.137695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.138671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.024415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006836s ]
+
+[ 2017-09-15T10:19:31+08:00 ] ::1 /myTp1/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005860s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.009766s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008789s ]
+
+[ 2017-09-15T10:19:51+08:00 ] ::1 /myTp1/index.php?m=Home&c=Team&a=team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007813s ]
+SQL: SHOW COLUMNS FROM `think_team` [ RunTime:0.009765s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\TeamController.class.php 第 8 行.
+SQL: SELECT * FROM `think_team`  [ RunTime:0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003906s ]
+
+[ 2017-09-15T10:19:59+08:00 ] ::1 /myTp1/index.php?m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003906s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.021484s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_loler` LIMIT 0,10   [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:02+08:00 ] ::1 /myTp1/index.php?page=3&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.014649s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.008789s ]
+SQL: SELECT * FROM `think_loler` LIMIT 20,10   [ RunTime:0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004883s ]
+
+[ 2017-09-15T10:20:04+08:00 ] ::1 /myTp1/index.php?page=1&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006836s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004882s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.017578s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_loler` LIMIT 0,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004883s ]
+
+[ 2017-09-15T10:20:09+08:00 ] ::1 /myTp1/index.php?page=3&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017578s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.009766s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.003906s ]
+SQL: SELECT * FROM `think_loler` LIMIT 20,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081055s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:12+08:00 ] ::1 /myTp1/index.php?page=1&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021484s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.019531s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_loler` LIMIT 0,10   [ RunTime:0.010743s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077148s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005859s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006836s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:15+08:00 ] ::1 /myTp1/index.php?page=3&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.036133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037109s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.011719s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.002929s ]
+SQL: SELECT * FROM `think_loler` LIMIT 20,10   [ RunTime:0.009765s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.155274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155274s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:20+08:00 ] ::1 /myTp1/index.php?page=1&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.011719s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_loler` LIMIT 0,10   [ RunTime:0.002930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:24+08:00 ] ::1 /myTp1/index.php?page=2&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011718s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.010742s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.022461s ]
+SQL: SELECT * FROM `think_loler` LIMIT 10,10   [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.007813s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010742s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.422851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.422851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002929s ]
+
+[ 2017-09-15T10:20:28+08:00 ] ::1 /myTp1/index.php?page=3&m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006836s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.011718s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_loler` LIMIT 20,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002929s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002929s ]
+
+[ 2017-09-15T10:20:37+08:00 ] ::1 /myTp1/index.php?m=Home&c=Loler&a=loler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008789s ]
+SQL: SHOW COLUMNS FROM `think_loler` [ RunTime:0.028320s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\LolerController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_loler` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_loler` LIMIT 0,10   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:41+08:00 ] ::1 /myTp1/index.php?m=Home&c=Team&a=team
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `think_team` [ RunTime:0.010742s ]
+NOTIC: [8] Undefined index: type D:\YuZF\wamp\www\myTp1\Web\Home\Controller\TeamController.class.php 第 8 行.
+SQL: SELECT * FROM `think_team`  [ RunTime:0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.013672s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.529297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.552734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.086914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.086914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:43+08:00 ] ::1 /myTp1/index.php?m=Home&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003906s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.009766s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.000977s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003906s ]
+
+[ 2017-09-15T10:20:47+08:00 ] ::1 /myTp1/index.php?page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004883s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.013672s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001954s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:20:50+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: name D:\YuZF\wamp\www\myTp1\Web\Home\Controller\NavController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.000977s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.011718s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.147461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.148438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006836s ]
+
+[ 2017-09-15T10:21:05+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav&name=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.017579s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.003906s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.001954s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012695s ]
+
+[ 2017-09-15T10:21:14+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav&name=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004883s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.063477s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.001954s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003906s ]
+
+[ 2017-09-15T10:21:24+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav&name=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002929s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.012696s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.000977s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-15T10:21:33+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=navShow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012695s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.019531s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.002930s ]
+SQL: SELECT * FROM `think_laravel` WHERE ( id=2 )  [ RunTime:0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006836s ]
+
+[ 2017-09-15T10:21:37+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006836s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.018555s ]
+NOTIC: [8] Undefined index: name D:\YuZF\wamp\www\myTp1\Web\Home\Controller\NavController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103515s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007813s ]
+
+[ 2017-09-15T10:21:41+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav&name=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018555s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.028321s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.003906s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.085937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014649s ]
+
+[ 2017-09-15T10:21:45+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav&name=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011719s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.026367s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.001953s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.002929s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.004883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004882s ]
+

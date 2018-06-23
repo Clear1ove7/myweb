@@ -1,0 +1,149 @@
+/*
+ *初始化样式
+ * */
+*,li,p,h1,h2,h3,h4,h5,h6,hr,br,label,ul,form,ol,dl{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none !important;
+	font-size: 16px;
+	color: #333;
+}
+body,html{
+	background: #f4f4f4;
+}
+body.cont{
+	padding-top: 80px;
+}
+label{
+	text-align: center;
+}
+a,button{
+	cursor: pointer;
+	transition-duration: .5s;
+	outline: none;
+}
+a:active,a:hover{
+	color: #333;
+}
+input{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	height: 30px;
+	outline: none;
+	line-height: 30px;
+	padding: 0 4px;
+}
+/*
+ *下边框.after_样式
+ * */
+.after_bot,.after_top,.after_rig,.after_lef{
+	position: relative;
+}
+.after_bot:after,.after_top:after,.after_rig:after,.after_lef:after{
+	content: '';
+	position: absolute;
+	background: #ccc;
+}
+.after_bot,.after_top{
+	width: 100%;
+}
+.after_rig,.after_lef{
+	height: 100%;
+}
+.after_bot:after,.after_top:after{
+	width: 100%;
+	height: 1px;
+	left: 0;
+}
+.after_rig:after,.after_lef:after{
+	width: 1px;
+	height: 100%;
+	top: 0;
+}
+.after_bot:after{
+	bottom: 0;
+}
+.after_top:after{
+	top: 0;
+}
+.after_rig:after{
+	right: 0;
+}
+.after_lef:after{
+	left: 0;
+}
+
+/*
+ *行内块元素样式
+ * */
+.inBl{
+	display: inline-block;
+	width: 100%;
+}
+
+/*
+ *颜色样式
+ * */
+.reds{
+	color: #c00 !important;
+}
+.blues{
+	color: #3399aa !important;
+}
+.yellows{
+	color: #cc6 !important;
+}
+.oranges{
+	color: #ec7626 !important;
+}
+.greens{
+	color: #3aa99 !important;
+}
+.defaults{
+	color: #999 !important;
+}
+.bg_reds{
+	background: #c00 !important;
+	color: #fff !important;
+}
+.bg_blues{
+	background: #3399aa !important;
+	color: #fff !important;
+}
+.bg_yellows{
+	background: #cc6 !important;
+	color: #fff !important;
+}
+.bg_oranges{
+	background: #ec7626 !important;
+	color: #fff !important;
+}
+.bg_greens{
+	background: #3aa99 !important;
+	color: #fff !important;
+}
+
+
+/*
+ *公共头部样式
+ * */
+header{
+	height: 80px;
+	background: #fff;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.3);
+	position: fixed;
+	text-align: center;
+	top: -80px;
+	left: 0;
+}
+.titles{
+	display: inline-block;
+}
+.btn_login{
+	position: absolute;
+	height: 40px;
+	padding: 0 10px;
+	top: 20px;
+	right: 20px;
+}

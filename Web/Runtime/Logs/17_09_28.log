@@ -1,0 +1,73 @@
+[ 2017-09-28T09:02:02+08:00 ] ::1 /myTp1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003906s ]
+SQL: SHOW COLUMNS FROM `think_lol` [ RunTime:0.033203s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_lol` LIMIT 1   [ RunTime:0.000977s ]
+SQL: SELECT * FROM `think_lol` LIMIT 0,10   [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined variable: list2 D:\YuZF\wamp\www\myTp1\Web\Runtime\Cache\Home\a5d07c113795da31d2426caff16ba5bc.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.182617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.182617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.023437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.025391s ]
+
+[ 2017-09-28T09:02:05+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011719s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.033203s ]
+NOTIC: [8] Undefined index: name D:\YuZF\wamp\www\myTp1\Web\Home\Controller\NavController.class.php 第 7 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.001954s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2017-09-28T09:02:11+08:00 ] ::1 /myTp1/index.php?m=Home&c=Nav&a=nav&name=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005860s ]
+SQL: SHOW COLUMNS FROM `think_laravel` [ RunTime:0.010742s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_laravel` LIMIT 1   [ RunTime:0.000976s ]
+SQL: SELECT * FROM `think_laravel`  [ RunTime:0.000977s ]
+SQL: SELECT * FROM `think_laravel` LIMIT 0,3   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+

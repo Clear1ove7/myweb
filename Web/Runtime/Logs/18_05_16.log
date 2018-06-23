@@ -1,0 +1,500 @@
+[ 2018-05-16T09:53:10+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+
+[ 2018-05-16T09:55:29+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:55:30+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:55:31+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:55:31+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:55:31+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:55:32+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:55:32+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:57:58+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:57:59+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'bdm252317195'@'123.56.134.116' (using password: YES)
+
+[ 2018-05-16T09:58:42+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_phone` [ RunTime:0.001507s ]
+ERR: 1146:Table 'bdm252317195_db.think_phone' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_phone`
+SQL: SELECT * FROM `think_phone`  [ RunTime:0.001363s ]
+ERR: 1146:Table 'bdm252317195_db.think_phone' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_phone` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2018-05-16T12:08:15+08:00 ] 47.92.6.234 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_phone` [ RunTime:0.001958s ]
+ERR: 1146:Table 'bdm252317195_db.think_phone' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_phone`
+SQL: SELECT * FROM `think_phone`  [ RunTime:0.001584s ]
+ERR: 1146:Table 'bdm252317195_db.think_phone' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_phone` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000963s ]
+
+[ 2018-05-16T12:49:51+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001547s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001209s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/bxu2359260362/htdocs/Web/Home/Controller/IndexController.class.php:8) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/bxu2359260362/htdocs/Web/Home/Controller/IndexController.class.php:8) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/bxu2359260362/htdocs/Web/Home/Controller/IndexController.class.php:8) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2018-05-16T12:56:26+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001714s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001369s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011343s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000334s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/bxu2359260362/htdocs/Web/Home/Controller/IndexController.class.php:8) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/bxu2359260362/htdocs/Web/Home/Controller/IndexController.class.php:8) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /data/home/bxu2359260362/htdocs/Web/Home/Controller/IndexController.class.php:8) /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000680s ]
+
+[ 2018-05-16T12:57:00+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001662s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001810s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+
+[ 2018-05-16T12:59:18+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001612s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001433s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+
+[ 2018-05-16T12:59:18+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001552s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001247s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+
+[ 2018-05-16T12:59:19+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001640s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001213s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+
+[ 2018-05-16T12:59:19+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001573s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001222s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+
+[ 2018-05-16T12:59:19+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `think_myinfo` [ RunTime:0.001579s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_myinfo`
+SQL: SELECT * FROM `think_myinfo`  [ RunTime:0.001258s ]
+ERR: 1146:Table 'bdm252317195_db.think_myinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_myinfo` 
+
+[ 2018-05-16T13:32:35+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001846s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001407s ]
+
+[ 2018-05-16T13:33:34+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001688s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001291s ]
+
+[ 2018-05-16T13:33:35+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.002070s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001341s ]
+
+[ 2018-05-16T13:33:35+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001908s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001342s ]
+
+[ 2018-05-16T13:33:35+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.003533s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001383s ]
+
+[ 2018-05-16T13:41:06+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001861s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001297s ]
+
+[ 2018-05-16T13:41:07+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001623s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001212s ]
+
+[ 2018-05-16T13:41:08+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001888s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001939s ]
+
+[ 2018-05-16T13:41:09+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001694s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001253s ]
+
+[ 2018-05-16T13:41:10+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001747s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001256s ]
+
+[ 2018-05-16T13:41:10+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.002075s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001386s ]
+
+[ 2018-05-16T13:41:10+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001745s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001326s ]
+
+[ 2018-05-16T14:30:18+08:00 ] 113.80.61.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.001991s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined index: pid /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 105 行.
+NOTIC: [8] Undefined index: pimg /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 107 行.
+NOTIC: [8] Undefined index: pnodel /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 108 行.
+NOTIC: [8] Undefined index: pprice /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
+[ 2018-05-16T21:50:28+08:00 ] 116.4.2.122 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /data/home/bxu2359260362/htdocs/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myinfo` [ RunTime:0.002370s ]
+SQL: SELECT * FROM `myinfo`  [ RunTime:0.001578s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined index: pid /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 105 行.
+NOTIC: [8] Undefined index: pimg /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 107 行.
+NOTIC: [8] Undefined index: pnodel /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 108 行.
+NOTIC: [8] Undefined index: pprice /data/home/bxu2359260362/htdocs/Web/Runtime/Cache/Home/a5d07c113795da31d2426caff16ba5bc.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
